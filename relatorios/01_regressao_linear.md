@@ -53,9 +53,9 @@ O modelo foi implementado utilizando PyTorch, por meio da camada `nn.Linear(4, 1
 
 A regressão linear múltipla é representada por:
 
-\[
+$
 \hat{PE}=w_1AT+w_2V+w_3AP+w_4RH+b
-\]
+$
 
 Os parâmetros foram aprendidos durante o treinamento, utilizando:
 
